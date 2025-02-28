@@ -16,7 +16,7 @@ body {
     font-family: "Fira Sans", serif;
     font-weight: 200;
     font-style: normal;
-    background: var(--primary-color);
+    background: linear-gradient(167.96deg, #A0D9F4 0%, var(--primary-color) 100%) no-repeat;
 }
 
 .header {
